@@ -24,3 +24,5 @@ A graduate from BITS Pilani with a strong interest in programming and developmen
   <br /><img width="1000" alt="5" src="https://github.com/samarthj5696/samarthj5696/blob/master/Portfolio.gif"> <br /><br />
 - **Movie Review Application:** The Movie Review Application is a full-stack web project showcasing my skills in ReactJS, NodeJS, Express, and MongoDB. It allows users to browse and review movies. I implemented REST APIs for seamless data manipulation and ensured user authentication and authorization through bcrypt encryption and JWT tokens.
   <br /><img width="1000" alt="5" src="https://github.com/samarthj5696/samarthj5696/blob/master/MERN_Project.gif"> <br /><br />
+- **Cube Game:** Developed an engaging game using Unity and C# for users that features a red cube navigating a challenging path filled with obstacles.
+  <br /><img width="1000" alt="5" src="https://github.com/samarthj5696/samarthj5696/blob/master/CUBE_GAME.gif"> <br /><br />
